@@ -1,1 +1,201 @@
-
+Data,Casa,Fora,Força Casa,Força Fora,Pos Casa,Pos Fora,Prob_Mandante,Prob_Empate,Prob_Visitante,Previsão,Total Gols Estimado
+2025-08-09T00:00:00Z,CR Flamengo,Mirassol FC,86.7,40.0,1,9,0.612,0.378,0.011,Mandante vence,12.5
+2025-08-09T00:00:00Z,CR Vasco da Gama,CA Mineiro,46.7,53.3,13,7,0.341,0.235,0.424,Visitante vence,0.5
+2025-08-09T00:00:00Z,SE Palmeiras,Ceará SC,46.7,13.3,4,12,0.529,0.455,0.015,Mandante vence,3.0
+2025-08-09T00:00:00Z,São Paulo FC,EC Vitória,46.7,20.0,14,16,0.506,0.391,0.104,Mandante vence,-4.0
+2025-08-09T00:00:00Z,RB Bragantino,SC Internacional,60.0,13.3,3,17,0.793,0.197,0.01,Mandante vence,-1.5
+2025-08-09T00:00:00Z,Cruzeiro EC,Santos FC,86.7,40.0,2,15,0.833,0.15,0.018,Mandante vence,3.0
+2025-08-09T00:00:00Z,Grêmio FBPA,SC Recife,60.0,0.0,11,20,0.777,0.209,0.014,Mandante vence,-8.0
+2025-08-09T00:00:00Z,EC Bahia,Fluminense FC,86.7,46.7,5,6,0.706,0.245,0.048,Mandante vence,3.0
+2025-08-09T00:00:00Z,Fortaleza EC,Botafogo FR,26.7,26.7,18,8,0.145,0.616,0.239,Empate,0.5
+2025-08-09T00:00:00Z,EC Juventude,SC Corinthians Paulista,33.3,13.3,19,10,0.331,0.456,0.214,Empate,-9.0
+2025-08-16T00:00:00Z,Fluminense FC,Fortaleza EC,86.7,13.3,6,18,0.747,0.246,0.008,Mandante vence,-1.5
+2025-08-16T00:00:00Z,Botafogo FR,SE Palmeiras,86.7,80.0,8,4,0.541,0.133,0.326,Mandante vence,5.5
+2025-08-16T00:00:00Z,SC Corinthians Paulista,EC Bahia,66.7,40.0,10,5,0.542,0.347,0.111,Mandante vence,0.5
+2025-08-16T00:00:00Z,Santos FC,CR Vasco da Gama,33.3,20.0,15,13,0.402,0.459,0.139,Empate,-2.5
+2025-08-16T00:00:00Z,Mirassol FC,Cruzeiro EC,73.3,53.3,9,2,0.414,0.452,0.134,Empate,7.0
+2025-08-16T00:00:00Z,CA Mineiro,Grêmio FBPA,73.3,26.7,7,11,0.723,0.252,0.025,Mandante vence,0.0
+2025-08-16T00:00:00Z,SC Internacional,CR Flamengo,46.7,66.7,17,1,0.044,0.33,0.626,Visitante vence,7.0
+2025-08-16T00:00:00Z,EC Vitória,EC Juventude,53.3,0.0,16,19,0.756,0.214,0.03,Mandante vence,-10.0
+2025-08-16T00:00:00Z,Ceará SC,RB Bragantino,66.7,66.7,12,3,0.414,0.171,0.415,Visitante vence,2.5
+2025-08-16T00:00:00Z,SC Recife,São Paulo FC,13.3,20.0,20,14,0.258,0.311,0.431,Visitante vence,-8.5
+2025-08-23T00:00:00Z,CR Flamengo,EC Vitória,86.7,20.0,1,16,0.753,0.244,0.003,Mandante vence,8.0
+2025-08-23T00:00:00Z,CR Vasco da Gama,SC Corinthians Paulista,46.7,13.3,13,10,0.472,0.477,0.051,Empate,-2.0
+2025-08-23T00:00:00Z,SE Palmeiras,SC Recife,46.7,0.0,4,20,0.859,0.135,0.006,Mandante vence,-4.5
+2025-08-23T00:00:00Z,São Paulo FC,CA Mineiro,46.7,53.3,14,7,0.304,0.222,0.474,Visitante vence,-0.5
+2025-08-23T00:00:00Z,RB Bragantino,Fluminense FC,60.0,46.7,3,6,0.714,0.213,0.073,Mandante vence,3.0
+2025-08-23T00:00:00Z,Cruzeiro EC,SC Internacional,86.7,13.3,2,17,0.801,0.195,0.003,Mandante vence,1.5
+2025-08-23T00:00:00Z,Grêmio FBPA,Ceará SC,60.0,13.3,11,12,0.392,0.577,0.031,Empate,-0.5
+2025-08-23T00:00:00Z,EC Bahia,Santos FC,86.7,40.0,5,15,0.798,0.169,0.033,Mandante vence,0.0
+2025-08-23T00:00:00Z,Fortaleza EC,Mirassol FC,26.7,40.0,18,9,0.157,0.355,0.488,Visitante vence,-0.5
+2025-08-23T00:00:00Z,EC Juventude,Botafogo FR,33.3,26.7,19,8,0.146,0.52,0.334,Empate,-4.5
+2025-08-30T00:00:00Z,CR Flamengo,Grêmio FBPA,86.7,26.7,1,11,0.78,0.216,0.004,Mandante vence,8.5
+2025-08-30T00:00:00Z,Botafogo FR,RB Bragantino,86.7,66.7,8,3,0.643,0.188,0.169,Mandante vence,5.0
+2025-08-30T00:00:00Z,SC Corinthians Paulista,SE Palmeiras,66.7,80.0,10,4,0.314,0.079,0.606,Visitante vence,1.0
+2025-08-30T00:00:00Z,Santos FC,Fluminense FC,33.3,46.7,15,6,0.27,0.27,0.46,Visitante vence,0.0
+2025-08-30T00:00:00Z,Mirassol FC,EC Bahia,73.3,40.0,9,5,0.557,0.379,0.064,Mandante vence,4.0
+2025-08-30T00:00:00Z,Cruzeiro EC,São Paulo FC,86.7,20.0,2,14,0.792,0.202,0.005,Mandante vence,2.5
+2025-08-30T00:00:00Z,SC Internacional,Fortaleza EC,46.7,13.3,17,18,0.461,0.434,0.105,Mandante vence,-6.0
+2025-08-30T00:00:00Z,EC Vitória,CA Mineiro,53.3,53.3,16,7,0.272,0.242,0.486,Visitante vence,-0.5
+2025-08-30T00:00:00Z,Ceará SC,EC Juventude,66.7,0.0,12,19,0.819,0.171,0.01,Mandante vence,-7.0
+2025-08-30T00:00:00Z,SC Recife,CR Vasco da Gama,13.3,20.0,20,13,0.226,0.358,0.417,Visitante vence,-7.5
+2025-09-13T00:00:00Z,Fluminense FC,SC Corinthians Paulista,86.7,13.3,6,10,0.667,0.326,0.007,Mandante vence,0.5
+2025-09-13T00:00:00Z,CR Vasco da Gama,Ceará SC,46.7,13.3,13,12,0.324,0.628,0.048,Empate,0.0
+2025-09-13T00:00:00Z,SE Palmeiras,SC Internacional,46.7,13.3,4,17,0.761,0.223,0.015,Mandante vence,-1.0
+2025-09-13T00:00:00Z,São Paulo FC,Botafogo FR,46.7,26.7,14,8,0.236,0.651,0.113,Empate,1.5
+2025-09-13T00:00:00Z,RB Bragantino,SC Recife,60.0,0.0,3,20,0.88,0.117,0.004,Mandante vence,-5.0
+2025-09-13T00:00:00Z,CA Mineiro,Santos FC,73.3,40.0,7,15,0.738,0.201,0.06,Mandante vence,0.0
+2025-09-13T00:00:00Z,Grêmio FBPA,Mirassol FC,60.0,40.0,11,9,0.41,0.434,0.156,Empate,1.0
+2025-09-13T00:00:00Z,EC Bahia,Cruzeiro EC,86.7,53.3,5,2,0.562,0.365,0.072,Mandante vence,6.0
+2025-09-13T00:00:00Z,Fortaleza EC,EC Vitória,26.7,20.0,18,16,0.345,0.41,0.244,Empate,-5.0
+2025-09-13T00:00:00Z,EC Juventude,CR Flamengo,33.3,66.7,19,1,0.021,0.154,0.825,Visitante vence,2.0
+2025-09-20T00:00:00Z,CR Flamengo,CR Vasco da Gama,86.7,20.0,1,13,0.71,0.287,0.003,Mandante vence,9.0
+2025-09-20T00:00:00Z,Botafogo FR,CA Mineiro,86.7,53.3,8,7,0.624,0.288,0.088,Mandante vence,5.0
+2025-09-20T00:00:00Z,SE Palmeiras,Fortaleza EC,46.7,13.3,4,18,0.757,0.228,0.016,Mandante vence,-1.0
+2025-09-20T00:00:00Z,Santos FC,São Paulo FC,33.3,20.0,15,14,0.458,0.398,0.144,Mandante vence,-3.5
+2025-09-20T00:00:00Z,Mirassol FC,EC Juventude,73.3,0.0,9,19,0.858,0.138,0.005,Mandante vence,-5.5
+2025-09-20T00:00:00Z,Cruzeiro EC,RB Bragantino,86.7,66.7,2,3,0.796,0.128,0.076,Mandante vence,6.0
+2025-09-20T00:00:00Z,SC Internacional,Grêmio FBPA,46.7,26.7,17,11,0.428,0.371,0.201,Mandante vence,-4.5
+2025-09-20T00:00:00Z,EC Vitória,Fluminense FC,53.3,46.7,16,6,0.309,0.319,0.372,Visitante vence,-0.5
+2025-09-20T00:00:00Z,Ceará SC,EC Bahia,66.7,40.0,12,5,0.47,0.415,0.115,Mandante vence,2.5
+2025-09-20T00:00:00Z,SC Recife,SC Corinthians Paulista,13.3,13.3,20,10,0.255,0.447,0.298,Empate,-7.5
+2025-09-27T00:00:00Z,Fluminense FC,Botafogo FR,86.7,26.7,6,8,0.435,0.549,0.016,Empate,5.0
+2025-09-27T00:00:00Z,CR Vasco da Gama,Cruzeiro EC,46.7,53.3,13,2,0.245,0.367,0.388,Visitante vence,3.5
+2025-09-27T00:00:00Z,SC Corinthians Paulista,CR Flamengo,66.7,66.7,10,1,0.141,0.521,0.338,Empate,9.0
+2025-09-27T00:00:00Z,São Paulo FC,Ceará SC,46.7,13.3,14,12,0.309,0.634,0.057,Empate,-1.0
+2025-09-27T00:00:00Z,RB Bragantino,Santos FC,60.0,40.0,3,15,0.803,0.147,0.05,Mandante vence,0.0
+2025-09-27T00:00:00Z,CA Mineiro,Mirassol FC,73.3,40.0,7,9,0.528,0.411,0.061,Mandante vence,4.0
+2025-09-27T00:00:00Z,Grêmio FBPA,EC Vitória,60.0,20.0,11,16,0.609,0.338,0.053,Mandante vence,-3.5
+2025-09-27T00:00:00Z,EC Bahia,SE Palmeiras,86.7,80.0,5,4,0.629,0.1,0.271,Mandante vence,3.5
+2025-09-27T00:00:00Z,Fortaleza EC,SC Recife,26.7,0.0,18,20,0.58,0.334,0.085,Mandante vence,-9.5
+2025-09-27T00:00:00Z,EC Juventude,SC Internacional,33.3,13.3,19,17,0.397,0.359,0.243,Mandante vence,-11.0
+2025-10-01T00:00:00Z,CR Flamengo,Cruzeiro EC,86.7,53.3,1,2,0.588,0.389,0.022,Mandante vence,14.5
+2025-10-01T00:00:00Z,Botafogo FR,EC Bahia,86.7,40.0,8,5,0.593,0.369,0.038,Mandante vence,5.0
+2025-10-01T00:00:00Z,SE Palmeiras,CR Vasco da Gama,46.7,20.0,4,13,0.695,0.281,0.023,Mandante vence,1.0
+2025-10-01T00:00:00Z,Santos FC,Grêmio FBPA,33.3,26.7,15,11,0.449,0.351,0.199,Mandante vence,-3.0
+2025-10-01T00:00:00Z,Mirassol FC,RB Bragantino,73.3,66.7,9,3,0.558,0.178,0.264,Mandante vence,4.0
+2025-10-01T00:00:00Z,CA Mineiro,EC Juventude,73.3,0.0,7,19,0.887,0.109,0.004,Mandante vence,-6.5
+2025-10-01T00:00:00Z,SC Internacional,SC Corinthians Paulista,46.7,13.3,17,10,0.38,0.532,0.088,Empate,-4.0
+2025-10-01T00:00:00Z,EC Vitória,Ceará SC,53.3,13.3,16,12,0.269,0.674,0.057,Empate,-1.0
+2025-10-01T00:00:00Z,Fortaleza EC,São Paulo FC,26.7,20.0,18,14,0.358,0.403,0.239,Empate,-5.0
+2025-10-01T00:00:00Z,SC Recife,Fluminense FC,13.3,46.7,20,6,0.087,0.121,0.792,Visitante vence,-5.0
+2025-10-16T00:00:00Z,Fluminense FC,CA Mineiro,86.7,53.3,6,7,0.689,0.23,0.082,Mandante vence,3.0
+2025-10-16T00:00:00Z,CR Vasco da Gama,EC Vitória,46.7,20.0,13,16,0.528,0.386,0.086,Mandante vence,-3.0
+2025-10-16T00:00:00Z,SC Corinthians Paulista,Mirassol FC,66.7,40.0,10,9,0.45,0.432,0.118,Mandante vence,1.5
+2025-10-16T00:00:00Z,São Paulo FC,SE Palmeiras,46.7,80.0,14,4,0.125,0.048,0.827,Visitante vence,0.0
+2025-10-16T00:00:00Z,RB Bragantino,Grêmio FBPA,60.0,26.7,3,11,0.793,0.186,0.021,Mandante vence,0.0
+2025-10-16T00:00:00Z,Cruzeiro EC,SC Recife,86.7,0.0,2,20,0.883,0.115,0.001,Mandante vence,-2.0
+2025-10-16T00:00:00Z,SC Internacional,Botafogo FR,46.7,26.7,17,8,0.184,0.665,0.151,Empate,0.5
+2025-10-16T00:00:00Z,EC Bahia,CR Flamengo,86.7,66.7,5,1,0.259,0.603,0.138,Empate,11.5
+2025-10-16T00:00:00Z,Ceará SC,Santos FC,66.7,40.0,12,15,0.593,0.275,0.132,Mandante vence,-0.5
+2025-10-16T00:00:00Z,EC Juventude,Fortaleza EC,33.3,13.3,19,18,0.391,0.363,0.247,Mandante vence,-11.0
+2025-10-25T00:00:00Z,Fluminense FC,EC Juventude,86.7,0.0,6,19,0.902,0.096,0.002,Mandante vence,-6.5
+2025-10-25T00:00:00Z,Botafogo FR,CR Flamengo,86.7,66.7,8,1,0.188,0.673,0.14,Empate,13.5
+2025-10-25T00:00:00Z,SE Palmeiras,RB Bragantino,46.7,66.7,4,3,0.607,0.117,0.276,Mandante vence,3.5
+2025-10-25T00:00:00Z,Santos FC,SC Corinthians Paulista,33.3,13.3,15,10,0.403,0.509,0.088,Empate,-2.5
+2025-10-25T00:00:00Z,Mirassol FC,SC Internacional,73.3,13.3,9,17,0.664,0.322,0.014,Mandante vence,-0.5
+2025-10-25T00:00:00Z,CA Mineiro,Cruzeiro EC,73.3,53.3,7,2,0.479,0.4,0.121,Mandante vence,6.0
+2025-10-25T00:00:00Z,Grêmio FBPA,São Paulo FC,60.0,20.0,11,14,0.622,0.327,0.051,Mandante vence,-3.5
+2025-10-25T00:00:00Z,EC Vitória,EC Bahia,53.3,40.0,16,5,0.332,0.399,0.269,Empate,-0.5
+2025-10-25T00:00:00Z,Fortaleza EC,CR Vasco da Gama,26.7,20.0,18,13,0.31,0.461,0.229,Empate,-4.0
+2025-10-25T00:00:00Z,SC Recife,Ceará SC,13.3,13.3,20,12,0.168,0.564,0.269,Empate,-5.5
+2025-11-05T00:00:00Z,CR Flamengo,SE Palmeiras,86.7,80.0,1,4,0.776,0.126,0.099,Mandante vence,12.0
+2025-11-05T00:00:00Z,CR Vasco da Gama,Fluminense FC,46.7,46.7,13,6,0.379,0.303,0.318,Mandante vence,0.5
+2025-11-05T00:00:00Z,SC Corinthians Paulista,CA Mineiro,66.7,53.3,10,7,0.519,0.246,0.235,Mandante vence,0.5
+2025-11-05T00:00:00Z,Santos FC,EC Vitória,33.3,20.0,15,16,0.445,0.407,0.148,Mandante vence,-3.5
+2025-11-05T00:00:00Z,Mirassol FC,São Paulo FC,73.3,20.0,9,14,0.65,0.33,0.021,Mandante vence,0.5
+2025-11-05T00:00:00Z,Cruzeiro EC,Fortaleza EC,86.7,13.3,2,18,0.797,0.199,0.003,Mandante vence,1.5
+2025-11-05T00:00:00Z,SC Internacional,SC Recife,46.7,0.0,17,20,0.639,0.314,0.047,Mandante vence,-9.5
+2025-11-05T00:00:00Z,EC Bahia,Grêmio FBPA,86.7,26.7,5,11,0.775,0.211,0.014,Mandante vence,0.0
+2025-11-05T00:00:00Z,Ceará SC,Botafogo FR,66.7,26.7,12,8,0.274,0.68,0.045,Empate,4.5
+2025-11-05T00:00:00Z,EC Juventude,RB Bragantino,33.3,66.7,19,3,0.065,0.039,0.897,Visitante vence,-6.5
+2025-11-19T00:00:00Z,Fluminense FC,SC Internacional,86.7,13.3,6,17,0.752,0.241,0.007,Mandante vence,-1.5
+2025-11-19T00:00:00Z,Botafogo FR,Santos FC,86.7,40.0,8,15,0.722,0.236,0.042,Mandante vence,2.0
+2025-11-19T00:00:00Z,SE Palmeiras,Cruzeiro EC,46.7,53.3,4,2,0.507,0.335,0.158,Mandante vence,6.5
+2025-11-19T00:00:00Z,São Paulo FC,EC Bahia,46.7,40.0,14,5,0.372,0.366,0.262,Mandante vence,-0.5
+2025-11-19T00:00:00Z,RB Bragantino,CR Vasco da Gama,60.0,20.0,3,13,0.734,0.251,0.015,Mandante vence,0.5
+2025-11-19T00:00:00Z,CA Mineiro,Ceará SC,73.3,13.3,7,12,0.474,0.514,0.011,Empate,2.5
+2025-11-19T00:00:00Z,Grêmio FBPA,EC Juventude,60.0,0.0,11,19,0.847,0.141,0.012,Mandante vence,-9.5
+2025-11-19T00:00:00Z,EC Vitória,SC Corinthians Paulista,53.3,13.3,16,10,0.407,0.53,0.063,Empate,-3.0
+2025-11-19T00:00:00Z,Fortaleza EC,CR Flamengo,26.7,66.7,18,1,0.026,0.229,0.745,Visitante vence,7.0
+2025-11-19T00:00:00Z,SC Recife,Mirassol FC,13.3,40.0,20,9,0.089,0.216,0.695,Visitante vence,-4.0
+2025-11-22T00:00:00Z,CR Flamengo,SC Recife,86.7,0.0,1,20,0.864,0.135,0.001,Mandante vence,3.5
+2025-11-22T00:00:00Z,CR Vasco da Gama,São Paulo FC,46.7,20.0,13,14,0.541,0.375,0.084,Mandante vence,-3.0
+2025-11-22T00:00:00Z,SC Corinthians Paulista,Grêmio FBPA,66.7,26.7,10,11,0.663,0.285,0.053,Mandante vence,-2.5
+2025-11-22T00:00:00Z,Santos FC,Fortaleza EC,33.3,13.3,15,18,0.484,0.412,0.104,Mandante vence,-4.5
+2025-11-22T00:00:00Z,Mirassol FC,Botafogo FR,73.3,26.7,9,8,0.335,0.639,0.026,Empate,6.0
+2025-11-22T00:00:00Z,Cruzeiro EC,EC Vitória,86.7,20.0,2,16,0.784,0.211,0.005,Mandante vence,2.5
+2025-11-22T00:00:00Z,SC Internacional,CA Mineiro,46.7,53.3,17,7,0.216,0.206,0.578,Visitante vence,-1.5
+2025-11-22T00:00:00Z,EC Bahia,RB Bragantino,86.7,66.7,5,3,0.726,0.138,0.137,Mandante vence,3.0
+2025-11-22T00:00:00Z,Ceará SC,Fluminense FC,66.7,46.7,12,6,0.471,0.358,0.171,Mandante vence,2.5
+2025-11-22T00:00:00Z,EC Juventude,SE Palmeiras,33.3,80.0,19,4,0.03,0.015,0.955,Visitante vence,-6.0
+2025-11-29T00:00:00Z,Fluminense FC,Mirassol FC,86.7,40.0,6,9,0.573,0.387,0.039,Mandante vence,4.0
+2025-11-29T00:00:00Z,Botafogo FR,CR Vasco da Gama,86.7,20.0,8,13,0.613,0.375,0.012,Mandante vence,2.5
+2025-11-29T00:00:00Z,SE Palmeiras,Santos FC,46.7,40.0,4,15,0.759,0.164,0.077,Mandante vence,0.5
+2025-11-29T00:00:00Z,São Paulo FC,CR Flamengo,46.7,66.7,14,1,0.067,0.381,0.552,Visitante vence,8.0
+2025-11-29T00:00:00Z,RB Bragantino,SC Corinthians Paulista,60.0,13.3,3,10,0.719,0.272,0.009,Mandante vence,0.5
+2025-11-29T00:00:00Z,CA Mineiro,EC Bahia,73.3,40.0,7,5,0.622,0.323,0.056,Mandante vence,3.0
+2025-11-29T00:00:00Z,Grêmio FBPA,Cruzeiro EC,60.0,53.3,11,2,0.337,0.382,0.281,Empate,3.0
+2025-11-29T00:00:00Z,EC Vitória,SC Internacional,53.3,13.3,16,17,0.499,0.427,0.074,Mandante vence,-5.0
+2025-11-29T00:00:00Z,Ceará SC,Fortaleza EC,66.7,13.3,12,18,0.591,0.382,0.027,Mandante vence,-2.0
+2025-11-29T00:00:00Z,SC Recife,EC Juventude,13.3,0.0,20,19,0.597,0.227,0.176,Mandante vence,-14.5
+2025-12-03T00:00:00Z,CR Flamengo,Santos FC,86.7,40.0,1,15,0.814,0.176,0.01,Mandante vence,8.5
+2025-12-03T00:00:00Z,CR Vasco da Gama,EC Juventude,46.7,0.0,13,19,0.802,0.176,0.022,Mandante vence,-9.0
+2025-12-03T00:00:00Z,SC Corinthians Paulista,Ceará SC,66.7,13.3,10,12,0.419,0.559,0.023,Empate,0.0
+2025-12-03T00:00:00Z,São Paulo FC,RB Bragantino,46.7,66.7,14,3,0.229,0.106,0.665,Visitante vence,-0.5
+2025-12-03T00:00:00Z,Mirassol FC,SE Palmeiras,73.3,80.0,9,4,0.426,0.114,0.461,Visitante vence,4.5
+2025-12-03T00:00:00Z,Cruzeiro EC,Fluminense FC,86.7,46.7,2,6,0.752,0.222,0.026,Mandante vence,6.0
+2025-12-03T00:00:00Z,SC Internacional,EC Bahia,46.7,40.0,17,5,0.286,0.369,0.346,Empate,-1.5
+2025-12-03T00:00:00Z,EC Vitória,Botafogo FR,53.3,26.7,16,8,0.203,0.685,0.112,Empate,1.5
+2025-12-03T00:00:00Z,Fortaleza EC,Grêmio FBPA,26.7,26.7,18,11,0.338,0.343,0.319,Empate,-4.5
+2025-12-03T00:00:00Z,SC Recife,CA Mineiro,13.3,53.3,20,7,0.064,0.076,0.86,Visitante vence,-5.0
+2025-12-06T00:00:00Z,Fluminense FC,CR Flamengo,86.7,66.7,6,1,0.237,0.615,0.148,Empate,11.5
+2025-12-06T00:00:00Z,Botafogo FR,SC Recife,86.7,0.0,8,20,0.806,0.191,0.003,Mandante vence,-3.0
+2025-12-06T00:00:00Z,SC Corinthians Paulista,São Paulo FC,66.7,20.0,10,14,0.652,0.311,0.037,Mandante vence,-3.0
+2025-12-06T00:00:00Z,Santos FC,Mirassol FC,33.3,40.0,15,9,0.238,0.415,0.348,Empate,1.0
+2025-12-06T00:00:00Z,RB Bragantino,EC Vitória,60.0,20.0,3,16,0.773,0.211,0.015,Mandante vence,-0.5
+2025-12-06T00:00:00Z,CA Mineiro,SE Palmeiras,73.3,80.0,7,4,0.487,0.1,0.413,Mandante vence,3.5
+2025-12-06T00:00:00Z,Grêmio FBPA,CR Vasco da Gama,60.0,20.0,11,13,0.561,0.389,0.051,Mandante vence,-2.5
+2025-12-06T00:00:00Z,EC Bahia,Fortaleza EC,86.7,13.3,5,18,0.767,0.227,0.007,Mandante vence,-1.5
+2025-12-06T00:00:00Z,Ceará SC,SC Internacional,66.7,13.3,12,17,0.598,0.376,0.027,Mandante vence,-2.0
+2025-12-06T00:00:00Z,EC Juventude,Cruzeiro EC,33.3,53.3,19,2,0.08,0.163,0.757,Visitante vence,-3.5
+2025-12-10T00:00:00Z,CR Flamengo,RB Bragantino,86.7,66.7,1,3,0.801,0.155,0.045,Mandante vence,11.5
+2025-12-10T00:00:00Z,Botafogo FR,Grêmio FBPA,86.7,26.7,8,11,0.693,0.29,0.017,Mandante vence,2.0
+2025-12-10T00:00:00Z,SE Palmeiras,Fluminense FC,46.7,46.7,4,6,0.658,0.233,0.109,Mandante vence,3.5
+2025-12-10T00:00:00Z,São Paulo FC,EC Juventude,46.7,0.0,14,19,0.79,0.183,0.027,Mandante vence,-10.0
+2025-12-10T00:00:00Z,Mirassol FC,Ceará SC,73.3,13.3,9,12,0.408,0.579,0.012,Empate,3.5
+2025-12-10T00:00:00Z,Cruzeiro EC,SC Corinthians Paulista,86.7,13.3,2,10,0.727,0.27,0.003,Mandante vence,3.5
+2025-12-10T00:00:00Z,SC Internacional,Santos FC,46.7,40.0,17,15,0.36,0.243,0.397,Visitante vence,-4.5
+2025-12-10T00:00:00Z,EC Bahia,CR Vasco da Gama,86.7,20.0,5,13,0.709,0.281,0.01,Mandante vence,0.5
+2025-12-10T00:00:00Z,Fortaleza EC,CA Mineiro,26.7,53.3,18,7,0.134,0.15,0.717,Visitante vence,-1.5
+2025-12-10T00:00:00Z,SC Recife,EC Vitória,13.3,20.0,20,16,0.248,0.314,0.439,Visitante vence,-8.5
+2025-12-13T00:00:00Z,Fluminense FC,São Paulo FC,86.7,20.0,6,14,0.74,0.249,0.011,Mandante vence,-0.5
+2025-12-13T00:00:00Z,CR Vasco da Gama,SC Internacional,46.7,13.3,13,17,0.567,0.375,0.058,Mandante vence,-4.0
+2025-12-13T00:00:00Z,SC Corinthians Paulista,Botafogo FR,66.7,26.7,10,8,0.341,0.612,0.047,Empate,2.5
+2025-12-13T00:00:00Z,Santos FC,SC Recife,33.3,0.0,15,20,0.661,0.293,0.046,Mandante vence,-8.0
+2025-12-13T00:00:00Z,RB Bragantino,Fortaleza EC,60.0,13.3,3,18,0.789,0.201,0.01,Mandante vence,-1.5
+2025-12-13T00:00:00Z,CA Mineiro,CR Flamengo,73.3,66.7,7,1,0.198,0.594,0.208,Empate,11.5
+2025-12-13T00:00:00Z,Grêmio FBPA,SE Palmeiras,60.0,80.0,11,4,0.245,0.068,0.687,Visitante vence,0.5
+2025-12-13T00:00:00Z,EC Vitória,Mirassol FC,53.3,40.0,16,9,0.261,0.469,0.27,Empate,0.5
+2025-12-13T00:00:00Z,Ceará SC,Cruzeiro EC,66.7,53.3,12,2,0.322,0.457,0.221,Empate,5.5
+2025-12-13T00:00:00Z,EC Juventude,EC Bahia,33.3,40.0,19,5,0.178,0.226,0.597,Visitante vence,-6.5
+2025-12-17T00:00:00Z,CR Vasco da Gama,Mirassol FC,46.7,40.0,13,9,0.321,0.448,0.231,Empate,1.5
+2025-12-17T00:00:00Z,SE Palmeiras,EC Vitória,46.7,20.0,4,16,0.738,0.239,0.024,Mandante vence,0.0
+2025-12-17T00:00:00Z,São Paulo FC,SC Internacional,46.7,13.3,14,17,0.547,0.383,0.07,Mandante vence,-5.0
+2025-12-17T00:00:00Z,RB Bragantino,CA Mineiro,60.0,53.3,3,7,0.71,0.183,0.107,Mandante vence,3.0
+2025-12-17T00:00:00Z,Cruzeiro EC,Botafogo FR,86.7,26.7,2,8,0.506,0.486,0.008,Mandante vence,8.0
+2025-12-17T00:00:00Z,Grêmio FBPA,Fluminense FC,60.0,46.7,11,6,0.488,0.296,0.216,Mandante vence,0.0
+2025-12-17T00:00:00Z,EC Bahia,SC Recife,86.7,0.0,5,20,0.864,0.133,0.002,Mandante vence,-5.0
+2025-12-17T00:00:00Z,Fortaleza EC,SC Corinthians Paulista,26.7,13.3,18,10,0.322,0.528,0.15,Empate,-4.0
+2025-12-17T00:00:00Z,EC Juventude,Santos FC,33.3,40.0,19,15,0.211,0.141,0.648,Visitante vence,-9.5
+2025-12-17T00:00:00Z,CR Flamengo,Ceará SC,86.7,13.3,1,12,0.537,0.461,0.002,Mandante vence,11.0
+2025-12-21T00:00:00Z,Fluminense FC,EC Bahia,86.7,40.0,6,5,0.665,0.299,0.036,Mandante vence,3.0
+2025-12-21T00:00:00Z,Botafogo FR,Fortaleza EC,86.7,13.3,8,18,0.682,0.31,0.008,Mandante vence,0.5
+2025-12-21T00:00:00Z,SC Corinthians Paulista,EC Juventude,66.7,0.0,10,19,0.861,0.13,0.009,Mandante vence,-9.0
+2025-12-21T00:00:00Z,Santos FC,Cruzeiro EC,33.3,53.3,15,2,0.164,0.307,0.528,Visitante vence,3.0
+2025-12-21T00:00:00Z,Mirassol FC,CR Flamengo,73.3,66.7,9,1,0.16,0.626,0.214,Empate,12.5
+2025-12-21T00:00:00Z,CA Mineiro,CR Vasco da Gama,73.3,20.0,7,13,0.65,0.332,0.018,Mandante vence,0.5
+2025-12-21T00:00:00Z,SC Internacional,RB Bragantino,46.7,66.7,17,3,0.152,0.092,0.756,Visitante vence,-1.5
+2025-12-21T00:00:00Z,EC Vitória,São Paulo FC,53.3,20.0,16,14,0.472,0.423,0.105,Mandante vence,-4.0
+2025-12-21T00:00:00Z,Ceará SC,SE Palmeiras,66.7,80.0,12,4,0.274,0.095,0.631,Visitante vence,3.0
+2025-12-21T00:00:00Z,SC Recife,Grêmio FBPA,13.3,26.7,20,11,0.225,0.244,0.531,Visitante vence,-8.0
