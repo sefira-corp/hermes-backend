@@ -5,6 +5,14 @@ import path from 'path';
 
 const app = express();
 
+// ✅ Middleware para liberar CORS
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*"); // ou 'http://localhost:5173' para restringir
+  res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  next();
+});
+
 app.get('/api/predict', (req, res) => {
   try {
     const filePath = path.join(process.cwd(), 'data', 'hermes_predictions.csv');
