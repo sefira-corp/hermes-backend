@@ -1,22 +1,19 @@
 // api/predict.js
-
+import express from 'express';
 import fs from 'fs';
 import path from 'path';
 
-export default function handler(req, res) {
+const app = express();
+
+app.get('/api/predict', (req, res) => {
   try {
-    // Caminho absoluto para o CSV salvo no repositório
     const filePath = path.join(process.cwd(), 'data', 'hermes_predictions.csv');
+    const csvData = fs.readFileSync(filePath, 'utf-8').trim();
+    const [headerLine, ...rows] = csvData.split('\n');
+    const headers = headerLine.split(',');
 
-    // Lê o CSV
-    const csvData = fs.readFileSync(filePath, 'utf-8');
-
-    // Converte para JSON
-    const rows = csvData.trim().split('\n');
-    const headers = rows.shift().split(',');
-
-    const data = rows.map(row => {
-      const values = row.split(',');
+    const data = rows.map((line) => {
+      const values = line.split(',');
       return headers.reduce((obj, header, idx) => {
         obj[header] = values[idx];
         return obj;
@@ -24,8 +21,12 @@ export default function handler(req, res) {
     });
 
     res.status(200).json({ palpites: data });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: "Erro ao processar CSV." });
+  } catch (err) {
+    console.error('[predict] Erro ao processar CSV:', err);
+    res.status(500).json({ error: 'Erro ao processar CSV.' });
   }
+});
+
+export default function handler(req, res) {
+  app.handle(req, res);
 }
